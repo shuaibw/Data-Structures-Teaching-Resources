@@ -12,7 +12,9 @@ The slides are available in PDF format within this repository. If anyone wishes 
 - **Lecture 03 - Linked Lists – Node Removal and Rotation**  
   [View / Edit](https://docs.google.com/presentation/d/1wWyxDVoUXQr3TbndrbeLDVv10VPwXvHTqFRmxn_LfG4/edit?usp=sharing)
 - **Lecture 04 - Doubly Linked Lists**  
-  [View / Edit](https://docs.google.com/presentation/d/1iePV9GCNiPgo9Z1zYrsdizf2euAU3HhzxZrDBWf6b_8/edit?usp=sharing)  
+  [View / Edit](https://docs.google.com/presentation/d/1iePV9GCNiPgo9Z1zYrsdizf2euAU3HhzxZrDBWf6b_8/edit?usp=sharing)
+- **Lecture 05 - Dummy Headed Circular DLLs**
+  [View / Edit](https://docs.google.com/presentation/d/1a7XbGdy_IhvVHjNMB_5WkamklN6XUE0pdiUs5XDI7Fc/edit?usp=sharing)  
 
 📌 *More lecture slides will be added over time.*  
 
