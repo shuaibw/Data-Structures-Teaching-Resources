@@ -17,7 +17,8 @@ The slides are available in PDF format within this repository. If anyone wishes 
   [View / Edit](https://docs.google.com/presentation/d/1a7XbGdy_IhvVHjNMB_5WkamklN6XUE0pdiUs5XDI7Fc/edit?usp=sharing)
 - **Lecture 06 - 2D Arrays**  
   [View / Edit](https://docs.google.com/presentation/d/1LkltIcVyVqIdSd9D1n2d6EFWAmqvwOqp48Qb1CEPTGs/edit?usp=sharing)
-
+- **Lecture 07 - Hashing and Hash Tables**  
+  [View / Edit](https://docs.google.com/presentation/d/1xMqZysmd7ftp3k-ZjUWUtIhzV9JiSNkHi0vwI1R7_k4/edit?usp=sharing)
 📌 *More lecture slides will be added over time.*  
 
 ## 🔄 Usage and Modifications  
