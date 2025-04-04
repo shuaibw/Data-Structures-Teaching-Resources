@@ -19,8 +19,10 @@ The slides are available in PDF format within this repository. If anyone wishes 
   [View / Edit](https://docs.google.com/presentation/d/1LkltIcVyVqIdSd9D1n2d6EFWAmqvwOqp48Qb1CEPTGs/edit?usp=sharing)
 - **Lecture 07 - Hashing and Hash Tables**  
   [View / Edit](https://docs.google.com/presentation/d/1xMqZysmd7ftp3k-ZjUWUtIhzV9JiSNkHi0vwI1R7_k4/edit?usp=sharing)
-📌 *More lecture slides will be added over time.*  
-
+- **Lecture 08 - Stacks**
+  [View / Edit](https://docs.google.com/presentation/d/1Jjtv3-cZ9oonkeDNCudgvO3RS1TVxWxz1h9v4_Tysb4/edit?usp=sharing) 
+  
+  *More lecture slides will be added over time.*  
 ## 🔄 Usage and Modifications  
 If you wish to use these slides for teaching, you are free to copy, modify, or change the theme to fit your needs. 
 
